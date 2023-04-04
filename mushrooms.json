@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "642be2a442166cc93f52c283"
+  },
+  "name": "Cèpe de Bordeaux",
+  "description": "Le cèpe de Bordeaux est un champignon comestible très prisé en cuisine française, connu pour son arôme boisé et sa saveur délicate.",
+  "image": "https://example.com/cepe-de-bordeaux.jpg"
+},{
+  "_id": {
+    "$oid": "642be2a442166cc93f52c284"
+  },
+  "name": "Girolle",
+  "description": "La girolle est un champignon comestible très apprécié pour son goût de noisette et sa texture ferme. Elle est souvent utilisée dans les plats de viande et de poisson.",
+  "image": "https://example.com/girolle.jpg"
+},{
+  "_id": {
+    "$oid": "642be2a442166cc93f52c285"
+  },
+  "name": "Pied-de-mouton",
+  "description": "Le pied-de-mouton est un champignon comestible très populaire en Europe. Il est souvent utilisé dans les plats à base de viande et a une saveur douce et légèrement sucrée.",
+  "image": "https://example.com/pied-de-mouton.jpg"
+}]

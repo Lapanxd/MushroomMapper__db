@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "642be58842166cc93f52c28b"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -122.4194,
+      37.7749
+    ]
+  },
+  "mushroom_id": {
+    "$oid": "642be2a442166cc93f52c284"
+  }
+}]
